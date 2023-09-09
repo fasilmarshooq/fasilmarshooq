@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Fasil
 
 Experienced Software Engineer | Technologist | Proactive Learner | Technopreneur
 
@@ -6,7 +6,11 @@ Experienced Software Engineer | Technologist | Proactive Learner | Technopreneur
 
 🔧 Always coding, always learning. Let's build the future together! 🚀
 
-## 💼 Experience
+## 💼 Currently working with 
+
+### Senior Software Engineer at [Agoda](https://www.agoda.com/info/about-agoda.html?cid=1844104)
+📍 Jun 2022 – Present 
+- Helping agoda build travle tech platform of the future
 
 ### Consultant at ThoughtWorks
 📍 Jun 2021 – Present (2 yrs 4 mos)
@@ -22,20 +26,12 @@ Experienced Software Engineer | Technologist | Proactive Learner | Technopreneur
   - 🚀 Automated manual processes for the United Gulf Aircraft Fueling Company (UGAFCO) KSA.
   - 🚀 Developed a One-stop app for the Dubai Department of Finance.
 
-### Senior Software Engineer at Odessa
-📍 Jan 2020 – Jun 2021 (1 yr 6 mos)
-- Led the Implementation of a Pricing Engine for a Multi-Country Finance Institution.
-- Responsible for providing technical designs, client tech demos, and mentoring teammates.
 
-### Software Engineer at Odessa
-📍 Apr 2017 – Jan 2020 (2 yrs 10 mos)
-- Worked on Odessa's flagship product LeaseWave.
-- Tech Stack: .Net, C#, LINQ, SQL Server, MVC, SSRS, Visual Studio, SSDT, TFS.
-- Domain: Leasing and Loan.
+## 💼 Previously worked with 
+- [ThoughtWorks](https://www.thoughtworks.com/en-in/about-us) 📍 Feb 2021 – Jun 2023
+- [Odessa](https://www.odessainc.com/company) 📍 Sep 2016 – Feb 2021
 
-### Intern at Odessa
-📍 Sep 2016 – Apr 2017 (8 mos)
-- Test Automation Engineer - Developed test scripts with an existing framework.
+
 
 ## 🔧 Skills
 
