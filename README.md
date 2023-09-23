@@ -44,7 +44,7 @@ I'm an Experienced Software Engineer, Technologist, and Technopreneur with a pas
 - Collaborating with Agoda to shape the future of travel tech.
 
 ### Co-Founder at [DevBee](https://dev-bee.com/)
-📍 Feb 2021 – Present (2 yrs 8 mos)
+📍 Feb 2021 – Present
 - Co-founded and bootstrapped this high-performing tech startup.
 - Serving 7+ clients across 4+ countries.
 - Recent milestones include:
