@@ -4,6 +4,39 @@ I'm an Experienced Software Engineer, Technologist, and Technopreneur with a pas
 
 🚀 Always coding, always learning. Let's build the future together!
 
+---
+
+<section id="sale-and-expertise">
+  <h2>🚀 Zatca SDK</h2>
+  <p>
+    Looking for the Zatca SDK? You're in the right place! Our Zatca SDK is available on GitHub.
+  </p>
+  <p>
+    <a href="https://github.com/devbee-engineering/ZatcaHelper" target="_blank">Explore Zatca SDK Repo</a>
+  </p>
+<p> Get in touch with me for pro version</p>
+  <p>
+    With DevBee am helping organisations achieve their compliance goals. Our team is currently working on two exciting projects:
+  </p>
+  <ol>
+    <li>
+      <strong>KSA e Invoicing:</strong> We are actively involved in KSA e Invoicing solutions, ensuring compliance with the latest regulations.
+    </li>
+    <li>
+      <strong>Jordan e Invoicing (R&D):</strong> We are also engaged in research and development for Jordan e Invoicing, striving to bring innovative solutions to the market.
+    </li>
+  </ol>
+</section>
+
+<p align="center">
+  <img src="https://zatca.gov.sa/Style%20Library/GAZTinternet/new/images/header_logo.svg" alt="DevBee Inc Banner" width="400">
+</p>
+
+
+
+---
+
+
 ## 💼 Current Roles
 
 ### Senior Software Engineer at [Agoda](https://www.agoda.com/info/about-agoda.html?cid=1844104)
