@@ -4,6 +4,8 @@ I'm an Experienced Software Engineer, Technologist, and Technopreneur with a pas
 
 🚀 Always coding, always learning. Let's build the future together!
 
+I write technical notes and engineering posts at [fasilmarshooq.github.io](https://fasilmarshooq.github.io/).
+
 ---
 
 <section id="sale-and-expertise">
@@ -74,6 +76,7 @@ I specialize in a range of technologies, including:
 ## 🌐 Connect with Me
 
 Let's collaborate and innovate together! Feel free to reach out:
+- Blog: [fasilmarshooq.github.io](https://fasilmarshooq.github.io/)
 - LinkedIn: [Fasil](https://www.linkedin.com/in/fasilmarshooq)
 - Email: [fasilmarshooq@gmail.com](mailto:fasilmarshooq@gmail.com)
 
